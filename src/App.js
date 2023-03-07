@@ -6,9 +6,7 @@ import { DefaultLayout } from '~/components/Layout';
 function App() {
     return (
         <>
-            <div className="App">
-                <h1>React App</h1>
-            </div>
+            <div className="App"></div>
             <Router>
                 <div className="App">
                     <Routes>
